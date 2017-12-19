@@ -340,3 +340,8 @@ AppRegistry.registerComponent('BlinkIDVerifyReactNative', () => BlinkIDVerifyRea
 **Can I create a custom UI overlay?**
 
 Yes you can, but you will have to implement it natively for android and ios, you can see native implementation guides [here(Android)](https://github.com/BlinkID/blinkid-android#recognizerView) and [here(ios)](https://github.com/BlinkID/blinkid-ios/wiki/Customizing-Camera-UI#steps-for-providing-custom-camera-overlay-view).
+
+**Could not expand ZIP '.../lib/LibPhotoPay.aar'**
+
+The missing libraries were not downloaded. Git LFS is needed for downloading these files (check **Dependencies** section).
+ You probably see the files in your file system, but they are not actually downloaded and are just text files. To download you must install Git LFS and repeat `git pull`.
