@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="liveness_action_blink" tools:ignore="MissingTranslation,UnusedResources">Close eyes\nfor a second</string>
+    <string name="liveness_action_smile" tools:ignore="MissingTranslation,UnusedResources">Smile while\nshowing teeth</string>
+
+    <string name="liveness_msg_face_angle" tools:ignore="MissingTranslation,UnusedResources">Align device\nwith face</string>
+    <string name="liveness_msg_face_too_close" tools:ignore="MissingTranslation,UnusedResources">Increase distance\nfrom the camera</string>
+    <string name="liveness_msg_face_too_far" tools:ignore="MissingTranslation,UnusedResources">Get closer\nto the camera</string>
+    <string name="liveness_msg_position_face" tools:ignore="MissingTranslation,UnusedResources">Position face\ninside the frame</string>
+
+    <string name="splash_msg_selfie" tools:ignore="MissingTranslation,UnusedResources">Selfie</string>
+
+    <string name="activity_title_step_liveness" tools:ignore="MissingTranslation,UnusedResources">Selfie</string>
+</resources>

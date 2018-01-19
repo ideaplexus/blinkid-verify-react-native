@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="action_torch" tools:ignore="MissingTranslation">Light</string>
+
+    <string name="mbDataNotMatchMsg" tools:ignore="MissingTranslation">Front and back side don’t match.</string>
+
+    <string name="tooltip_glare" tools:ignore="MissingTranslation">Slightly move ID to eliminate glare.</string>
+    <string name="tooltip_front_id" tools:ignore="MissingTranslation">Place the <b>FRONT SIDE</b> of the ID card in the frame and wait for automatic scan</string>
+    <string name="tooltip_back_id" tools:ignore="MissingTranslation">Place the <b>BACK SIDE</b> of the ID card in the frame and wait for automatic scan</string>
+
+    <string name="splash_msg_id_back" tools:ignore="MissingTranslation">ID card back side</string>
+    <string name="splash_msg_id_front" tools:ignore="MissingTranslation">ID card front side</string>
+
+    <string name="activity_title_step_front_side" tools:ignore="MissingTranslation">Front side</string>
+    <string name="activity_title_step_back_side" tools:ignore="MissingTranslation">Back side</string>
+
+</resources>

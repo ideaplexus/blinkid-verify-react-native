@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mb_lvPrimaryColor">@color/apple_green</color>
+    <color name="mb_lvPrimaryColorLight">@color/apple_green_light</color>
+
+    <color name="mb_lvSecondaryColor">@color/water_blue</color>
+    <color name="mb_lvSecondaryColorLight">@color/water_blue_light</color>
+
+    <color name="mb_lvOddListElementColor">@color/white</color>
+    <color name="mb_lvEvenListElementColor">@color/dirty_white</color>
+    <color name="mb_lvListElementTitleTextColor">@color/warm_grey</color>
+    <color name="mb_lvListElementValueTextColor">@color/greyish_brown</color>
+
+    <color name="mb_lvErrorColor">@color/tomato_red</color>
+    <color name="mb_lvEditableStringBackgroundColor">@color/white</color>
+</resources>

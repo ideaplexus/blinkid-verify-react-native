@@ -6,6 +6,19 @@
     <color name="underline_result_images">@color/water_blue</color>
     <color name="textSelfieFaceFailed">@color/black</color>
 
+
+    <!-- LivenessVerificationFlowActivity selfie viewfinder action color, should be transparent -->
+    <color name="selfie_inner_action">#AA0DA2CC</color>
+    <!-- LivenessVerificationFlowActivity selfie viewfinder error color, should be transparent -->
+    <color name="selfie_inner_error">#AAE84E40</color>
+
+    <!-- LivenessVerificationFlowActivity camera document viewfinder splash color -->
+    <color name="viewfinder_inner_splash">#0DA2CC</color>
+
+    <!-- LivenessVerificationFlowActivity camera overlay status message background (user instructions) -->
+    <color name="bg_status_message">#E60DA2CC</color>
+
+    <!-- AppCompat theme colors -->
     <color name="colorPrimary">@color/apple_green</color>
     <color name="colorPrimaryDark">@color/apple_green_dark</color>
     <color name="colorAccent">@color/apple_green_dark</color>
